@@ -21,6 +21,7 @@ h1,
 h2,
 h3 {
   color: var(--color-headings);
+  margin-bottom: 1rem;
 }
 
 h1 {
@@ -31,7 +32,6 @@ h2 {
 }
 h3 {
   font-size: 3rem;
-  margin-bottom: 1rem;
 }
 
 p {
